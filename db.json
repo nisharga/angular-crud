@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Nis",
+      "lastName": "kabir2",
+      "email": "nk@gmail.com",
+      "dob": "2023-11-18T18:00:00.000Z",
+      "gender": "male",
+      "education": "ssc",
+      "company": "ng",
+      "experience": 2,
+      "package": 2500,
+      "id": 1
+    },
+    {
+      "firstName": "addd",
+      "lastName": "s",
+      "email": "s",
+      "dob": "2023-11-04T18:00:00.000Z",
+      "gender": "female",
+      "education": "post graduate",
+      "company": "sop",
+      "experience": 1,
+      "package": 2,
+      "id": 4
+    },
+    {
+      "firstName": "a",
+      "lastName": "a",
+      "email": "a",
+      "dob": "2023-11-18T18:00:00.000Z",
+      "gender": "female",
+      "education": "under graduate",
+      "company": "a",
+      "experience": 11,
+      "package": 1,
+      "id": 5
+    },
+    {
+      "firstName": "1kl",
+      "lastName": "1",
+      "email": "1",
+      "dob": "2023-11-07T18:00:00.000Z",
+      "gender": "others",
+      "education": "post graduate",
+      "company": "11",
+      "experience": 11,
+      "package": 1,
+      "id": 6
+    },
+    {
+      "firstName": "[",
+      "lastName": "l",
+      "email": ",",
+      "dob": "2023-11-27T18:00:00.000Z",
+      "gender": "female",
+      "education": "graduate",
+      "company": "p",
+      "experience": 0,
+      "package": 0,
+      "id": 7
+    }
+  ]
+}
